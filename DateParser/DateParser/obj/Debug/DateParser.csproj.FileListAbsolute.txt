@@ -1,0 +1,7 @@
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\bin\Debug\DateParser.exe.config
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\obj\Debug\DateParser.csprojResolveAssemblyReference.cache
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\bin\Debug\DateParser.exe
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\bin\Debug\DateParser.pdb
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\obj\Debug\DateParser.exe
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\obj\Debug\DateParser.pdb
+C:\Coding\CodingPractice\Parsing\DataParsingExercise\DateParser\DateParser\bin\Debug\Data\MarketingDataFile.txt
